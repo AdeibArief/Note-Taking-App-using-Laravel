@@ -7,6 +7,10 @@
 
 A modern, secure, and user-friendly note-taking application built with Laravel framework, featuring elegant UI design with Tailwind CSS and robust authentication powered by Laravel Breeze.
 
+<img width="1842" height="836" alt="Screenshot 2025-08-27 211844" src="https://github.com/user-attachments/assets/014ad194-e5a6-45d4-90e5-00e02c7019df" />
+<img width="1678" height="857" alt="Screenshot 2025-08-27 213226" src="https://github.com/user-attachments/assets/818fa38e-b14c-4ba1-b61a-58df51c4cade" />
+
+
 ## 🚀 Features
 
 - **User Authentication & Authorization**
@@ -132,7 +136,6 @@ The application will be available at `http://localhost:8000`
 ### Server Requirements
 
 - PHP >= 8.1
-- Web server (Apache/Nginx)
 - MySQL/PostgreSQL database
 - SSL certificate (recommended)
 
@@ -186,8 +189,7 @@ chmod -R 755 storage bootstrap/cache
 ### Managing Notes
 - **Edit**: Click the edit button on any note
 - **Delete**: Use the delete button with confirmation
-- **Search**: Use the search bar to find specific notes
-- **Filter**: Filter notes by category or date
+- **Create**: create a note 
 
 ## 🧪 Testing
 
